@@ -3,12 +3,12 @@ layout: home
 title: Welcome to My ZKP Web3 Blog
 description: Exploring Zero-Knowledge Proofs, cryptography, and Web3 development with practical insights and data-driven analysis.
 theme: jekyll-theme-minimal
+permalink: /:year/:month/:day/:title/
 ---
 # Welcome
 This is the homepage of my new blog, documenting my deep dive into Zero-Knowledge Proofs, cryptography, and Web3 development.
 ---
 ## Latest Posts
-*(The theme will automatically display your latest posts here using the `{{ content }}` variable when `layout: home` is used.)*
-
-
-
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string }}</li>
+{% endfor %}
