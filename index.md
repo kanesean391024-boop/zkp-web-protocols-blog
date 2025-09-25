@@ -3,11 +3,12 @@ layout: home
 title: Welcome to My ZKP Web3 Blog
 ---
 
-# Welcome
+# Hello and Welcome!
 
-This is the homepage of my new blog, documenting my deep dive into the exciting world of Zero-Knowledge Proofs, cryptography, and Web3 development.
+I'm starting this blog to document my journey deep into Zero-Knowledge Proofs, cryptography, and Web3 development. I'm focusing on practical insights, data-supported analysis, and the latest news in the trustless space.
 
 ---
 
-## Latest Posts
+**Recent Articles:**
+
 
