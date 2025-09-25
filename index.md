@@ -4,16 +4,18 @@ title: Welcome to My ZKP Web3 Blog
 ---
 
 # Hello and Welcome!
-I'm starting this blog to document my journey deep into Zero-Knowledge Proofs, cryptography, and Web3 development. I'm focusing on practical insights, data-supported analysis, and the latest news in the trustless space.
+I’m starting this blog to document my journey into Zero-Knowledge Proofs, cryptography, and Web3 development, focusing on practical insights and data analysis.
 
 ---
-## Recent Articles:
+## Recent Articles
 ### ZKP-Powered Web Protocols for Data Delivery
 **By Sean Kane**
 
-Imagine a world where instead of fetching a webpage (HTML/JS) and then executing potentially untrusted JavaScript to verify data, you receive a compact ZKP that proves the integrity and validity of the data you’re requesting, without needing to re-fetch the raw data itself or trust the server to compute correctly...
+Imagine a world where... 
 
-In this new world data isn’t just “sent” and received; it’s cryptographically proven to be correct, legitimate, and derived from a specific source, right at the protocol level.
+instead of fetching a webpage (HTML/JS) and then executing potentially untrusted JavaScript to verify data, you receive a compact ZKP that proves the integrity and validity of the data you’re requesting, without needing to re-retch the raw data itself or trust the server to compute correctly.
+
+In this world data isn’t just “sent” and received; it’s cryptographically proven to be correct, legitimate, and derived from a specific source, right at the protocol level.
 
 Now how does this method mathematically win on TPS/Data Delivery Speed. This method enables a massive reduction in data transfer through latency and bandwidth savings. 
 
@@ -29,7 +31,8 @@ In a zero-knowledge proof web or blockchain web, verifying a zero-knowledge proo
 
 This results in time saved because it eliminates the need for extensive client-side computation or round-trips to the server for verification. Proof verification is orders of magnitude faster than re-executing a complex calculation or re-downloading large datasets.
 
-The new web will eliminate redundant trust cycles. In the current web, everytime a client interacts with a new server or API trust or perform checks are re-established. IN a zero-knowledge proof web, once a valid proof for a piece of data or a state transition is established, that proof becomes a mathematical guarantee. It is not required to re-verify the underlying computation.
+The new web will eliminate redundant trust cycles. In the current web, every time a client interacts with a new server or API trust or perform checks are re-established. IN a zero-knowledge proof web, once a valid proof for a piece of data or a state transition is established, that proof becomes a mathematical guarantee. It is not required to re-verify the underlying computation.
+
 The application of a zero-knowledge proof web results in time savings through simplified application logic, reducing development cycles and removing points of failure.
 
 Another advantage of a zero-knowledge proof web is enhanced privacy by default. In the current web to verify something, a client is often required to reveal what is being verified. For example, for a client to prove they are over 18, they might be required to reveal their ID. In the zero-knowledge proof web, a statement can be proven true, without revealing the underlying data. It could be proven that a client is over 18 without revealing the birth date or name. While this function of a zero-knowledge proof does not directly improve speed, it reduces friction and improves client experience, in itself an indirect efficiency gain.
@@ -48,10 +51,9 @@ Perhaps, most promising to young developers is the fact that the ecosystem of to
 
 In conclusion, to quote developer Vitalik Buterin, “Low-risk DeFI can be for Ethereum (implied blockchain, zero-knowledge proof web, Web3) what search was for Google.” Let’s build it.
 
-
 ---
 ## Data Support
-This vision is grounded in research: [Shashidhara 2024](https://onlinelibrary.wiley.com/doi/10.1002/spy2.461) on privacy/scalability, [Halborn](https://www.halborn.com/...) on 200-300 byte proofs. More sources to be added!
+Grounded in research: [Shashidhara 2024](https://onlinelibrary.wiley.com/doi/10.1002/spy2.461) on privacy/scalability, [Halborn](https://www.halborn.com/...) on 200-300 byte proofs.
 ---
 *Draft posted 9/25/25*
 
