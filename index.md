@@ -21,7 +21,7 @@ In this world data isn’t just “sent” and received; it’s cryptographicall
 
 Now how does this method mathematically win on TPS/Data Delivery Speed. This method enables a massive reduction in data transfer through latency and bandwidth savings. 
 
-The current web is written predominately with HTML, JavaScript and the likes thereof requires many verifications for example:  “Is this user authorized?” or “Is this transaction valid?” To anser these queries it is required to fetch a significant amount of data (HTML, JS, CSS, images, API responses), and then perform computations locally or rely on server-side computations.
+The current web is written predominately with HTML, JavaScript and the likes thereof requires many verifications for example:  “Is this user authorized?” or “Is this transaction valid?” To answer these queries it is required to fetch a significant amount of data (HTML, JS, CSS, images, API responses), and then perform computations locally or rely on server-side computations.
 
 In a blockchain, or zero knowledge proof web instead of sending the full data and expecting the client to verify it or the server to send a trusted result, the server or designated prover computes a proof that a certain statement about the data is true. This proof is extremely small (a few kilobytes) compared to the raw data it verifies.
 
@@ -58,7 +58,11 @@ Data Support/Support/Bibliography
 
 This vision is grounded in peer-reviewed research and industry insights. Independent verification from Shashidhara (2024) affirms ZKP’s potential for privacy and scalability. Halborn and Zeeve highlight succinct proof sizes (200-300 bytes) reducing data transfer, while Rapid Innovation and Fujitsu underscore latency cuts in high-latency environments. Infisign and arXiv provide mathematical backing—O(1) verification vs. O(n) traditional compute—driving TPS gains. Zeeve’s trend analysis shows Web3 projects accelerating, echoing Buterin’s DeFi analogy. These sources collectively validate the essay’s claims, offering a roadmap for developers.
 
+Draft posted 9/25/25
 
+Source:
 
+1.  Shashidhara-2024
+    https://onlinelibrary.wiley.com/doi/10.1002/spy2.461
 
 
