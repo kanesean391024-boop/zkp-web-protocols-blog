@@ -62,5 +62,5 @@ Grounded in research: [Shashidhara 2024](https://onlinelibrary.wiley.com/doi/10.
   <tr><td>Latency Benefit</td><td>High-latency networks</td></tr>
 </table>
 
-<a href="/2025/09/24/understanding-the-power-of-zero-knowledge-proofs/">Read ZKP Post</a>
+<a href="/_posts/2025/09/24/understanding-the-power-of-zero-knowledge-proofs/">Read ZKP Post</a>
 
