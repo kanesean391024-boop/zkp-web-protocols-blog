@@ -56,42 +56,6 @@ Data Support/Support/Bibliography
 
 This vision is grounded in peer-reviewed research and industry insights. Independent verification from Shashidhara (2024) affirms ZKP’s potential for privacy and scalability. Halborn and Zeeve highlight succinct proof sizes (200-300 bytes) reducing data transfer, while Rapid Innovation and Fujitsu underscore latency cuts in high-latency environments. Infisign and arXiv provide mathematical backing—O(1) verification vs. O(n) traditional compute—driving TPS gains. Zeeve’s trend analysis shows Web3 projects accelerating, echoing Buterin’s DeFi analogy. These sources collectively validate the essay’s claims, offering a roadmap for developers.
 
-Independent Verification:
-
-	•	Shashidhara, R. (2024). Promise of Zero-Knowledge Proofs (ZKPs) for Blockchain Privacy and Security: Opportunities, Challenges, and Future Directions. Security and Privacy, 8. doi:10.1002/spy2.461.
-	◦	Validates ZKP applications in privacy and scalability, aligning with the essay’s core thesis on data integrity and efficiency.
-
-Regarding Reduction in Data Transfer Size (Succinctness of Proofs):
-	
-•	Halborn. (n.d.). Beyond Privacy: The Scalability Benefits of ZKPs. Retrieved from https://www.halborn.com/blog/post/beyond-privacy-the-scalability-benefits-of-zkps
-	◦	Highlights how zk-SNARKs reduce proof size to ~200-300 bytes, supporting the essay’s claim of kilobyte-scale transfers vs. megabytes.
-	•	Zeeve. (2023). Practical Use Cases of Zero-Knowledge Proofs. Retrieved from https://medium.com/zeeve/practical-use-cases-of-zero-knowledge-proofs-9126c5329bdf
-	◦	Offers practical examples of succinctness in blockchain, reinforcing bandwidth savings.
-	•	Shashidhara, R. (2024). Promise of Zero-Knowledge Proofs (ZKPs) for Blockchain Privacy and Security. Retrieved from https://www.researchgate.net/publication/384056745_Promise_of_Zero-Knowledge_Proofs_ZKPs_for_Blockchain_Privacy_and_Security_Opportunities_Challenges_and_Future_Directions
-	◦	Provides academic backing for succinct proof generation, tying to latency reduction.
-
-Impact on Data Delivery Speed:
-	
-•	Rapid Innovation. (n.d.). Top 10 Blockchain Use Cases of Zero-Knowledge Proof. Retrieved from https://www.rapidinnovation.io/post/top-10-blockchain-use-cases-of-zero-knowledge-proof
-	◦	Details latency cuts in high-latency networks (e.g., satellite), supporting instantaneous verification claims.
-	•	Halborn. (n.d.). Beyond Privacy: The Scalability Benefits of ZKPs. 
-	•	Retrieved from https://www.halborn.com/blog/post/beyond-privacy-the-scalability-benefits-of-zkps
-	◦	Corroborates time-to-first-byte reductions with ZKP adoption.
-
-	•	Fujitsu Global. (2024, November 12). Zero-Knowledge Proofs: Revolutionizing Data Security. Retrieved from https://corporate-blog.global.fujitsu.com/fgb/2024-11-12/01/ 😂Fujitsu
-	◦	Offers corporate insight on speed gains, though dated slightly future 
-TPS Win:
-	
-•	Infisign. (n.d.). What Is Zero-Knowledge Proof (ZKP)?. Retrieved from https://www.infisign.ai/blog/what-is-zero-knowledge-proof-zkp
-	◦	Explains TPS scaling via batching (e.g., zk-rollups), aligning with 10-1000x gains.
-
-Mathematical Foundation:
-
-	•	arXiv. (2024). Zero-Knowledge Proofs for Scalable Web Protocols. Retrieved from https://arxiv.org/html/2408.00243v1
-	◦	Provides rigorous math on O(1) verification vs. O(n) traditional compute, grounding the essay’s efficiency claims.
-	•	Zeeve. (2023). Top 10 Zero-Knowledge Proof Projects for 2023. Retrieved from https://www.zeeve.io/blog/top-10-zero-knowledge-proof-projects-for-2023
-	◦	Tracks the trend—projects like Polygon zkEVM show TPS growth accelerating, supporting “running faster” note.
-   
 
 
 
