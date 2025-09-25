@@ -57,4 +57,9 @@ Grounded in research: [Shashidhara 2024](https://onlinelibrary.wiley.com/doi/10.
 ---
 *Draft posted 9/25/25*
 
+<table>
+  <tr><td>Proof Size</td><td>200-300 bytes</td></tr>
+  <tr><td>Latency Benefit</td><td>High-latency networks</td></tr>
+</table>
+
 
