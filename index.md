@@ -11,4 +11,3 @@ This is the homepage of my new blog, documenting my deep dive into the exciting 
 
 ## Latest Posts
 
-*(The theme will typically automatically display your latest posts here using the `{{ content }}` variable when `layout: home` is used.)*
