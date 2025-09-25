@@ -12,6 +12,7 @@ I'm starting this blog to document my journey deep into Zero-Knowledge Proofs, c
 **Recent Articles:**
 
 ZKP-Powered Web Protocols for Data Delivery
+By Sean Kane
 
 Imagine a world where instead of fetching a webpage (HTML/JS) and then executing potentially untrusted JavaScript to verify data, you receive a compact ZKP that proves the integrity and validity of the data you’re requesting, without needing to re-fetch the raw data itself or trust the server to compute correctly.
 
