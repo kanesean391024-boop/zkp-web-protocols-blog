@@ -1,8 +1,17 @@
-# ----------------------------- #
-theme: jekyll-theme-minimal
-title: My ZKP and Web3 Blog
-description: A journey into Zero-Knowledge Proofs, blockchain, and decentralized finance.
-author: Sean Kane
-email: kanesean391024@gmail.remote_theme: pages-themes/minimal@v0.2.0
+---
+layout: home
+title: Welcome to My ZKP Web3 Blog
+---
+
+# Welcome
+
+This is the homepage of my new blog, documenting my deep dive into the exciting world of Zero-Knowledge Proofs, cryptography, and Web3 development.
+
+---
+
+## Latest Posts
+
+*(The theme will typically automatically display your latest posts here using the `{{ content }}` variable when `layout: home` is used.)*
+
 
 
